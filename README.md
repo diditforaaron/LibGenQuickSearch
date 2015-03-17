@@ -1,5 +1,5 @@
 # LibGenQuickSearch
-GdiLibGenQuickSearchct is a Chrome Extension for quickly looking up studies on the Library Genesis project (LibGen)
+LibGenQuickSearch is a Chrome Extension for quickly looking up studies on the Library Genesis project (LibGen)
 
 
 
@@ -15,7 +15,7 @@ http://developer.chrome.com/extensions/getstarted.html#unpacked
 #### Search Highlighted Text
 Select the text you want to check, right-click on it, and click the Search With LibGen button. A new tab will be open with the search result.
 
-##** Using the Omnibar Search
+#### Using the Omnibar Search
 type "lib" (no quotes) into the omnibar (url box) and press Tab. Then enter your search terms. :)
 
 #### Browse History
