@@ -1,0 +1,19 @@
+/*
+http://www.w3schools.com/css/css_background.asp
+*/
+body {
+  background-color:#b0c4de;
+}
+
+/*
+http://www.usabilitypost.com/2012/01/10/pressed-button-state-with-css3/
+*/
+.button-link {
+/*  padding: 10px 15px;*/
+  background: #4479BA;
+  color: #FFF;
+}
+
+.hiddenMenu {
+  display: none;
+}
