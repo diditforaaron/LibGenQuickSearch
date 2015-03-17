@@ -1,5 +1,5 @@
 {
-  "name": "LibGenContext",
+  "name": "LibGenQuickSearch",
   "description": "Adds right click and lookup the selected text on LibGen as well as entering lib into the omnibox then tab and search terms",
   "version": "1.0.1",
   "permissions": ["contextMenus"],
